@@ -1,12 +1,59 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project Title
 
-Currently, two official plugins are available:
+# React Frontend Developer Test – Dashboard Assignment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a responsive dashboard UI built using React, Tailwind CSS, and ShadCN/UI components — all written in plain JavaScript. It was developed as part of a frontend developer test assignment, showcasing clean component-based architecture, responsive layout design, and reusable UI elements. The dashboard includes a sidebar for navigation, a data table with dummy data, and additional features like client-side routing and loading skeletons.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Responsive design for desktop and mobile
+- Sidebar navigation with multiple routes
+- Data table with sorting and pagination (dummy data)
+- Loading skeletons to enhance perceived performance
+- Modular and reusable components
+
+#### Technologies Used
+
+- React (JavaScript)
+- Tailwind CSS
+- ShadCN/UI components
+- React Router DOM
+## Run Locally
+
+Clone the project
+
+```bash
+ git clone https://github.com/ritesh-doijad/Dashboard.git
+```
+
+Go to the project directory
+
+```bash
+cd Dashboard     
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+## Demo
+
+https://dashboard-five-sigma-67.vercel.app/
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://riteshdoijad-fmadc9yrs-riteshs-projects-b99d6186.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/riteshdoijad284)
+
+
